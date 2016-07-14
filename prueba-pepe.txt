@@ -1,6 +1,7 @@
 Hola Probantes
 Helo aqui
 Creo qu lo voy pillando
+<<<<<<< HEAD
 
 1º entras al directorio en que quieres hacer tu repositorio local con 'cd'
 2º lo identificas como ??? con 'bash'
@@ -13,3 +14,6 @@ Creo qu lo voy pillando
 
 7º se hace git add (. para todos los archivos o cambios, o nombre de archivo para una sola fila)
 8º se hace git push origin master
+=======
+Esta línea la meto yo (Sergio) en el archivo de Pepe a las 18:16
+>>>>>>> 1ecd589ab85906b3a68eb2bf49ff5688a917b574
