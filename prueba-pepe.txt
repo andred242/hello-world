@@ -1,3 +1,15 @@
 Hola Probantes
 Helo aqui
 Creo qu lo voy pillando
+
+1º entras al directorio en que quieres hacer tu repositorio local con 'cd'
+2º lo identificas como ??? con 'bash'
+3º lo estableces como repositorio local con 'git init'
+4º entras en tu repositorio 
+5º se hace   git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+6º primero se cambia el archivo, se puede ver cambios con git status
+
+7º se hace git add (. para todos los archivos o cambios, o nombre de archivo para una sola fila)
+8º se hace git push origin master
